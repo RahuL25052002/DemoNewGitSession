@@ -1,2 +1,4 @@
-##Demo Session On git
--Learn basic commands of git
+# Demo Session On git
+
+
+- Learn basic commands of git
